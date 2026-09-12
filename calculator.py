@@ -1,2 +1,2 @@
 def add(a: int, b: int) -> int:
-    return a + b+3
+    return a + b+22
